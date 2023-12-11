@@ -1,0 +1,15 @@
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\bin\Debug\net7.0\Projeto1_USC.exe
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\bin\Debug\net7.0\Projeto1_USC.deps.json
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\bin\Debug\net7.0\Projeto1_USC.runtimeconfig.json
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\bin\Debug\net7.0\Projeto1_USC.dll
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\bin\Debug\net7.0\Projeto1_USC.pdb
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.csproj.AssemblyReference.cache
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.AssemblyInfoInputs.cache
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.AssemblyInfo.cs
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.csproj.CoreCompileInputs.cache
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.dll
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\refint\Projeto1_USC.dll
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.pdb
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\Projeto1_USC.genruntimeconfig.cache
+C:\Users\yagoi\Desktop\CursoCsharp\Projeto1_USC\Projeto1_USC\obj\Debug\net7.0\ref\Projeto1_USC.dll
